@@ -1,0 +1,3 @@
+<?php
+
+//digitar algumas funções
